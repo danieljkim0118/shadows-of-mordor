@@ -18,7 +18,9 @@ battle states and engage in combat without moving. (There are exceptions for bat
 special units.) Once the HP of the citadel reaches 0, the player loses and the game ends.
 The player should attempt to survive as many waves of orc invasions as possible, since the number of
 invasions he/she survived is saved after the game ends. For each wave of invasion, the rate at which
-the enemy units spawn are increased according to an exponential model. Have fun playing!!
+the enemy units spawn are increased according to an exponential model. 
+
+To play the game, run **Game.java** and input any username. Have fun playing!!
 
 ## Subtyping / Inheritance
 Noting that all units in this game must have common attributes such as position or HP, I designed
